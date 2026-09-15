@@ -76,6 +76,7 @@ If a future exercise changes or damages the VM configuration, the machine can be
 🔎 Test DNS resolution	nslookup networkwalks.com	Domain resolves
 🧰 Verify Nmap	nmap --version	Nmap version displayed
 🔄 Verify snapshot	Restore snapshot and run ip a	Baseline configuration restored
+
 Example Results
 IP Address:
 10.0.0.2/24
