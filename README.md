@@ -75,9 +75,13 @@ If a future exercise changes or damages the VM configuration, the machine can be
 🌐 Check IP address	ip a	Correct Kali IP displayed
 
 📡 Test gateway	ping 10.0.0.1	Successful replies
+
 🌍 Test Internet connectivity	ping 8.8.8.8	Successful replies
+
 🔎 Test DNS resolution	nslookup networkwalks.com	Domain resolves
+
 🧰 Verify Nmap	nmap --version	Nmap version displayed
+
 🔄 Verify snapshot	Restore snapshot and run ip a	Baseline configuration restored
 
 Example Results
