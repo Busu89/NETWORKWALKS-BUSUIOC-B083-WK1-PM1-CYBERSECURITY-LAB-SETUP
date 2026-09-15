@@ -124,7 +124,7 @@ The VM was allocated:
 ```text
 RAM: 2048 MB
 ```
-![](3-screenshot-kali-linux.png)
+![](https://github.com/Busu89/NETWORKWALKS-BUSUIOC-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/676f426b2790f6f1291b029013c84d56ef2dba52/Screenshot%20kali%20linux.jpg)
 A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
 
 
