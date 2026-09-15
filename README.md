@@ -146,7 +146,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-![](4-screenshot-kali-network-settings.png)
+![](https://github.com/Busu89/NETWORKWALKS-BUSUIOC-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP/blob/9596bd919c1f8c63a5d095d867c152769e8fc9c4/Screenshot%20kali%20networks%20settings.jpg)
 
 ---
 
@@ -258,3 +258,7 @@ I learned how to configure and verify IPv4 addressing, subnet masks, gateways, a
 I learned that a clean snapshot should be created **before performing risky or experimental activities**.
 
 This provides a known-good recovery point for future cybersecurity exercises.
+
+### 5. Documentation
+
+I learned that documenting commands, configuration, screenshots, problems, and solutions is an important part of a professional cybersecurity project.
