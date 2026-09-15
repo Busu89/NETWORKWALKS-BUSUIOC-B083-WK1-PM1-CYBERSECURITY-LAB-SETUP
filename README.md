@@ -69,8 +69,11 @@ The snapshot represents the clean baseline of the laboratory.
 If a future exercise changes or damages the VM configuration, the machine can be restored to this baseline.
 
 🔎 Lab Verification
+
 ✅ Test	🧾 Command	🎯 Expected Result
+
 🌐 Check IP address	ip a	Correct Kali IP displayed
+
 📡 Test gateway	ping 10.0.0.1	Successful replies
 🌍 Test Internet connectivity	ping 8.8.8.8	Successful replies
 🔎 Test DNS resolution	nslookup networkwalks.com	Domain resolves
